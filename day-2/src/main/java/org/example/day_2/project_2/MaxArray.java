@@ -1,8 +1,6 @@
 package org.example.day_2.project_2;
 
 import java.util.Arrays;
-import java.util.Comparator;
-import java.util.List;
 
 public class MaxArray {
     private int[] tab;
